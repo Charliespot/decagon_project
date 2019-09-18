@@ -4,10 +4,10 @@
 body {
     margin: 0px auto;
 	padding: 0px;
-	width: 90%;
+	width: 100%;
 }
 body header{
-    height: 80px;
+    height: 70px;
     width: 100%;
     background-color: blue;
     text-decoration: darkorange;
@@ -69,13 +69,13 @@ body main .box .img img{
 }
 .box h4{
 	text-align: center;
-	font-size: 15px;
+	font-size: 20px;
 	margin: 0;
-	padding: 3px;
+	padding: 7px;
 }
 
 .box button{
-	margin: 0 50px;
+	margin: 0 90px;
 	width: 150px;
 	height: 40px;
 	border-radius: 10px;
@@ -85,5 +85,42 @@ body main .box .img img{
 	border: none;
 	font-size: 20px;
 	cursor: pointer;
+
+}
+body div.display{
+	position: absolute;
+	padding: 20px;
+	display: inline-block;
+}
+body div.order{
+	margin: 0px auto;
+	float: center;
+	width: 100px;
+	height: 40px;
+	border-radius: 2px;
+	padding: 1px;
+	font-family: cursive;
+	font-size: 18px;
+	cursor: pointer;
+	background-color: gold;
+	color: black;
+	text-align: center;
+	box-shadow: blue 1px 1px;
+
+}
+body div.update{
+	margin: 0px auto;
+	float: center;
+	width: 150px;
+	height: 40px;
+	border-radius: 2px;
+	padding: 1px;
+	font-family: cursive;
+	font-size: 15px;
+	cursor: pointer;
+	background-color: gold;
+	color: black;
+	text-align: center;
+	box-shadow: blue 1px 1px;
 
 }
