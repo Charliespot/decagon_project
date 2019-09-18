@@ -3,7 +3,7 @@
     padding: 0px;
 }
 body header{
-    height: 80px;
+    height: 60px;
     width: 100%;
     background-color: blue;
     text-decoration: darkorange;
@@ -11,8 +11,8 @@ body header{
 body img{
     float: left;
     width: 50px;
-    height: 70px;
-    margin: auto, 10px, auto, auto;
+    height: 50px;
+    padding: auto, 0px, auto, 15px;
 }
 body nav ul li{
     list-style: none;

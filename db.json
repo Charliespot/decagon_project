@@ -1,6 +1,12 @@
 {
-    "posts": [
-      { "id": 1, "title": "json-server", "author": "typicode" }
+    "products": [
+      { "id": 1, 
+        "Product Name": "", 
+        "Price": "",
+        "Quantity": "",
+        "Date": "",
+        "Product Image"
+       }
     ],
     "comments": [
       { "id": 1, "body": "some comment", "postId": 1 }
