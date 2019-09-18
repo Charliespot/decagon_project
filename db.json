@@ -1,11 +1,10 @@
 {
     "products": [
-      { "id": 1, 
-        "Product Name": "", 
-        "Price": "",
-        "Quantity": "",
-        "Date": "",
-        "Product Image": ""
+      { "product_name": "",
+        "product_price": "",
+        "quantity": "",
+        "supply_date": "",
+        "product_image": ""
        }
     ]
     
